@@ -54,8 +54,8 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>work.ajaygupta.kafka.streams.WordCountApp</mainClass>
-                        </manifest>
+                            <mainClass>work.ajaygupta.kafka.streams.StreamsStarterApp</mainClass>
+                        </manifest>x
                     </archive>
                 </configuration>
                 <executions>
